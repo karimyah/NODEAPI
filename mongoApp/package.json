@@ -10,7 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "mongoose": "^5.9.18"
+    "mongoose": "^6.4.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
